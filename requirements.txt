@@ -1,0 +1,8 @@
+psutil>=5.9.0
+matplotlib>=3.7.0
+reportlab>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: For GPU monitoring (NVIDIA GPUs only)
+# gputil>=1.4.0
